@@ -16,6 +16,10 @@ body {
     line-height: 2;
 }
 
+.content {
+    margin-top: 100px;
+}
+
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
@@ -41,6 +45,10 @@ body {
 #headingGroup h1 {
     font-weight: 100;
     font-size: 4rem;
+}
+
+.navbar .scrolled {
+    background-color: #729293;
 }
 
 @media (max-width: 1200px) {
