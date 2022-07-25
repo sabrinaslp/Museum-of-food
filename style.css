@@ -47,8 +47,8 @@ body {
     font-size: 4rem;
 }
 
-.navbar .scrolled {
-    background-color: #729293;
+.navbar.scrolled{
+    background-color:pink;
 }
 
 @media (max-width: 1200px) {
